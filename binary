@@ -1,7 +1,14 @@
 #include "BinarySearchTree.h"
 
 
-git //////////
+/**
+ *This is the copy constructor which is the copy of the original
+ * the length of is 0
+ * the root is equal to nullptr
+ * @tparam DataType this is a temp
+ * @param rhs
+ */
+ /////////
     template<class DataType>
     BinarySearchTree<DataType>::BinarySearchTree(const BinarySearchTree<DataType> &rhs)
     {

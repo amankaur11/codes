@@ -1,7 +1,7 @@
 #include "BinarySearchTree.h"
 
 
-git /////////
+git //////////
     template<class DataType>
     BinarySearchTree<DataType>::BinarySearchTree(const BinarySearchTree<DataType> &rhs)
     {
@@ -11,9 +11,9 @@ git /////////
         deepCopy (rhs.root);
     }
 
-git add "CC 2024-3-12/CMakeLists.txt"
 
-git
+
+
 /**
  * This the the original copy constructor where length is set to 0
  * The root is also set to nullptr

@@ -8,7 +8,7 @@
  * @tparam DataType this is a temp
  * @param rhs
  */
- //////////
+ ////////////
     template<class DataType>
     BinarySearchTree<DataType>::BinarySearchTree(const BinarySearchTree<DataType> &rhs)
     {
